@@ -5,6 +5,9 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("/Users/Farrukh/Desktop/Projects/Trello-Clone-Firebase/src/static/boardBackground.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 code {
